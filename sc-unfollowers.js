@@ -40,7 +40,7 @@
  */
 /*
  *
- * USAGE:   run this script when you are on https://soundcloud.com/{your username}/following
+ * USAGE:   run this script when you are on https://soundcloud.com/knoluvent/following
  */
 (function () {
 
